@@ -14,12 +14,12 @@
 
 2. Clone repository into packages folder
 
-`git clone https://github.com/dreamerhyde/aslsnippets.git`
+`git clone git@github.com:dreamerhyde/ASLSnippets.git`
 
 ###### Windows Instructions
 
 `cd "%AppData%\Sublime Text 3\Packages\User"`
-`git clone https://github.com/dreamerhyde/aslsnippets.git`
+`git clone git@github.com:dreamerhyde/ASLSnippets.git`
 
 
 ### Available Components
